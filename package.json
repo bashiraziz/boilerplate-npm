@@ -6,7 +6,8 @@
 	"description": "this project will allocate indirect cost to the projects.",
 	"keywords": ["freecodecamp", "lubna", "thisisnotright"],
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"moment": "2.14.0"
 	},
 	"license": "MIT",
 	"version": "5.8.6",
