@@ -4,6 +4,7 @@
 		"name": "Bashir Aziz"
 	},
 	"description": "this project will allocate indirect cost to the projects.",
+	"keywords": ["freecodecamp", "lubna", "thisisnotright"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
