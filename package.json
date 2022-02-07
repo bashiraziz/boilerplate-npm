@@ -8,6 +8,8 @@
 	"dependencies": {
 		"express": "^4.14.0"
 	},
+	"license": "MIT",
+	"version": "5.8.6",
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
